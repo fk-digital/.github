@@ -13,3 +13,9 @@ Proudly based in Bristol, our team are the kings and queens of strategy, copywri
 - 🖼️ [Instagram](https://www.instagram.com/futurekingsuk)
 - 🌤️ [Bluesky](https://bsky.app/profile/futurekings.bsky.social)
 - 🐘 [Mastodon](https://mastodon.social/@futurekings)
+
+# FutureKings Ventures
+
+Using Brand as a tool to create value. Coming soon.
+
+💻 [futurekings.ventures](https://futurekings.ventures)
